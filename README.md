@@ -15,3 +15,11 @@ To calculate rental charges automatically based on duration.
 
 To reduce manual errors and improve efficiency in rental operations.
 
+# System Requirements
+## Software Requirements
+
+  Java JDK 8 or higher
+  Eclipse/ IntelliJ / VS Code
+  MySQL Database
+  Hibernate ORM
+  Maven
