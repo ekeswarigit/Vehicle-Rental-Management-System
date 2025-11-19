@@ -18,8 +18,44 @@ To reduce manual errors and improve efficiency in rental operations.
 # System Requirements
 ## Software Requirements
 
-  Java JDK 8 or higher
-  Eclipse/ IntelliJ / VS Code
-  MySQL Database
-  Hibernate ORM
-  Maven
+  - Java JDK 8 or higher
+  - Eclipse/ IntelliJ / VS Code
+  - MySQL Database
+  - Hibernate ORM
+  - Maven
+# Modules Description
+1.Customer Module
+
+* Register new customers
+
+* Store customer details
+
+* Retrieve customer list
+
+2 Vehicle Module
+
+* Add vehicles
+
+* View available vehicles
+
+* Update vehicle information
+
+3 Booking Module
+
+* Book vehicles
+
+* Calculate total rental price
+
+* Generate booking confirmation
+# Future Enhancements
+Adding a web-based or mobile UI
+
+Implementing online payment
+
+Adding admin login system
+
+Real-time vehicle tracking
+# Conclusion
+
+The Vehicle Rental Management System effectively addresses the challenges faced in manual rental operations. By implementing Hibernate ORM and MySQL, 
+the system ensures fast, accurate, and reliable data handling. Though currently console-based, the project lays a strong foundation for expansion into a full-fledged enterprise application.
